@@ -1,0 +1,35 @@
+Source: metapackage
+Section: utils
+Priority: extra
+Maintainer: John Doe <john@doe.org>
+Standards-Version: VERSION_TEMPLATE
+
+Package: metapackage
+Section: utils
+Priority: extra
+Architecture: amd64
+Depends: gnome-core,
+  google-perftools,
+  bison,
+  hugo,
+  libjemalloc2,
+  libjemalloc-dev,
+  jq,
+  jsonnet,
+  nmap,
+  ragel,
+  yq,
+  pipx,
+  build-essential,
+  cmake,
+  gnupg2,
+  just,
+  git-delta,
+  bat,
+  rustfilt,
+  apt-listbugs,
+  net-tools,
+  flatpak,
+  blanket,
+  localsend
+Description: Meta-package that depends on all of packages that I use.
