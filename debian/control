@@ -10,6 +10,8 @@ Priority: extra
 Architecture: amd64
 Depends: gnome-core,
   google-perftools,
+  valgrind,
+  strace,
   bison,
   hugo,
   libjemalloc2,
@@ -30,6 +32,13 @@ Depends: gnome-core,
   apt-listbugs,
   net-tools,
   flatpak,
+  wget,
+  curl,
+  sqlite3,
+  meson,
+  micro,
+  fastfetch,
+  nala,
   blanket,
   localsend
 Description: Meta-package that depends on all of packages that I use.
