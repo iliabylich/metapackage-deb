@@ -39,6 +39,7 @@ Depends: gnome-core,
   micro,
   fastfetch,
   nala,
+  imagemagick,
   blanket,
   localsend
 Description: Meta-package that depends on all of packages that I use.
