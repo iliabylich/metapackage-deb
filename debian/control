@@ -40,6 +40,8 @@ Depends: gnome-core,
   fastfetch,
   nala,
   htop,
+  nano,
+  netselect-apt,
   imagemagick,
   blanket,
   localsend
