@@ -39,6 +39,7 @@ Depends: gnome-core,
   micro,
   fastfetch,
   nala,
+  htop,
   imagemagick,
   blanket,
   localsend
