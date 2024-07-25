@@ -9,6 +9,8 @@ Section: utils
 Priority: extra
 Architecture: amd64
 Depends: gnome-session,
+  nautilus,
+  gnome-system-monitor,
   google-perftools,
   valgrind,
   strace,
