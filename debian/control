@@ -8,7 +8,7 @@ Package: metapackage
 Section: utils
 Priority: extra
 Architecture: amd64
-Depends: gnome-core,
+Depends: gnome-session,
   google-perftools,
   valgrind,
   strace,
