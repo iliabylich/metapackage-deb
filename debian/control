@@ -58,5 +58,6 @@ Depends: gnome-session,
   hyprland,
   hyprpaper,
   fonts-font-awesome,
-  ffmpeg
+  ffmpeg,
+  wofi
 Description: Meta-package that depends on all of packages that I use.
